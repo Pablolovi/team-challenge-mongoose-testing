@@ -1,0 +1,18 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de configuración de IDEs (opcional)
+.idea/
+.vscode/
+
+# Ignorar archivos de entorno .env (para no subir variables sensibles)
+.env
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de dependencias generadas automáticamente
+package-lock.json
+
+# Ignorar archivos de base de datos de pruebas
+*.db
